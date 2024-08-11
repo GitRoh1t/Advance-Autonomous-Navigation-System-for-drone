@@ -1,4 +1,4 @@
-# Advanced Autonomous Drone Navigation System (AADNS) by Nikul Ram
+# Advanced Autonomous Drone Navigation System (AADNS) by Rohit Saxena
 
 ## Overview
 The Advanced Autonomous Drone Navigation System (AADNS) is a sophisticated initiative leveraging cutting-edge technologies in AI, machine learning, and simulation to develop highly advanced autonomous drone capabilities. Designed for complex environmental interactions and adaptive flight path management, it aims to push the boundaries of what autonomous drones can achieve in realistic and simulated settings.
@@ -25,7 +25,7 @@ Ensure you have the following prerequisites installed:
 - AirSim or Gazebo
 
 Clone the repository:
-git clone https://github.com/nikulram/Advanced-Autonomous-Drone-Navigation-System.git
+git clone https://github.com/rohit saxena/Advanced-Autonomous-Drone-Navigation-System.git
 
 cd Advanced-Autonomous-Drone-Navigation-System
 pip install -r requirements.txt
